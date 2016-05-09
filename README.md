@@ -1,4 +1,11 @@
-### OSC with p5.js
+### Of Mice And Men
+## A game using OSC, p5.js, a lighting system and a motion capture system
+
+## Steps To Run:
+### (A) Open Terminal 
+    git clone https://github.com/MaxGreenwald/Of-Mice-And-Men.git
+    cd Of-Mice-And-Men
+### (B) Connect OSC with p5.js
 
 1) install [Node](nodejs.org)
 
@@ -6,8 +13,9 @@
 
     $ npm install
 
-3) run!
+3) Run Bridge.JS
 
     node bridge.js
 
-4) then navigate to the app and open `index.html` in a browser
+### (C) Open p5
+### (D) Open "sketch.js" in Of-Mice-And-Men/RetroGame folder
