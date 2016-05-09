@@ -1,5 +1,6 @@
 ### Of Mice And Men
 ## A game using OSC, p5.js, a lighting system and a motion capture system
+## See the Demo at https://flipagram.com/f/oxXmMz0t8r
 
 For this project I created an interactive gaming experience in which two participants play each other virtually and physically, chasing one another in arena. One player, the evil cat, is on a computer and chases a virtual mouse with his or her arrow keys. The other player, the innocent mouse, enters the motion capture arena with a motion capture wand and avoids the evil red light chasing him or her and tried to get to the green lights (the cheeses) before losing. 
 
