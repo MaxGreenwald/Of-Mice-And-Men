@@ -19,3 +19,4 @@
 
 ### (C) Open p5
 ### (D) Open "sketch.js" in Of-Mice-And-Men/RetroGame folder
+### (E) Connect to lighting system and motion capture system (careful with the ingoing and outgoing ports)
